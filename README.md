@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smithrex
 - 👀 I’m interested in videogames, teaching and drawing in general
 - 🌱 I’m currently learning Ruby on Rails
-- 💞️ I’m looking to collaborate on projects that require collaborative learning
+- 💞️ I’m looking to collaborate on projects in order to learn more about programming
 - 📫 How to reach me ...herreraprod@hotmail.com
 
 <!---
